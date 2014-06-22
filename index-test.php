@@ -3,7 +3,7 @@
  * This is the bootstrap file for test application.
  * This file should be removed when the application is deployed for production.
  */
-
+// another test
 // change the following paths if necessary
 $yii=dirname(__FILE__).'/../yii-all/framework/yii.php';
 $config=dirname(__FILE__).'/protected/config/test.php';
