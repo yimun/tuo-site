@@ -1,5 +1,5 @@
 <?php
-
+//test git
 // change the following paths if necessary
 $yii=dirname(__FILE__).'/../yii-all/framework/yii.php';
 $config=dirname(__FILE__).'/protected/config/main.php';
