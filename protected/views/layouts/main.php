@@ -18,7 +18,7 @@
 
 	<div id="mainmenu">
 		<?php $this->widget('bootstrap.widgets.TbNavbar',array(
-			'type'=>'default',
+			'type'=>'inverse',
 			'brand'=> Yii::app()->name,
 			'brandUrl'=>array('site/'),
 			'collapse'=>true,
